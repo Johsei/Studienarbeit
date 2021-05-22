@@ -1,0 +1,8 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{Abkürzungsverzeichnis}{i}{section*.2}%
+\contentsline {section}{Abbildungsverzeichnis}{i}{section*.3}%
+\contentsline {section}{Tabellenverzeichnis}{i}{section*.4}%
+\contentsline {section}{\numberline {1}Kapiteltitel}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Unterkapitel}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Unterunterkapitel}{3}{subsubsection.1.1.1}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
